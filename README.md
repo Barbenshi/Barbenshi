@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bar Ben Shimol</h1>
 <h3 align="center">A passionate fullstack/frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on [SpaPlus](https://github.com/LirazGanon/spa-plus)
+- 🔭 I’m currently working at [Meckano](https://app.meckano.co.il)
+
+- 🔭 I have previously been working on [SpaLook](https://gilwallach.github.io/SpaLook/)
 
 - 👨‍💻 All of my projects are available at [https://barbenshi.github.io/My-Portfolio/](https://barbenshi.github.io/My-Portfolio/)
 
